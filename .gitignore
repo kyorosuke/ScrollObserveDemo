@@ -1,0 +1,17 @@
+Library/
+Temp/
+obj/
+Build/
+Thumbs.db
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.suo
+*.csproj
+*.user
+*.userprefs
+*.DS_Store
+UpgradeLog*.htm
+
+.idea/
